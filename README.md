@@ -45,6 +45,7 @@ src/main/java/com/example/bookstore
 ├─ entity            # JPA entities (Book)
 ├─ exception         # Custom exceptions
 └─ advice            # Global exception handler
+```
 
 ## 🔍 API Testing Screenshots
 
