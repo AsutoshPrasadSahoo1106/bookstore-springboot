@@ -45,3 +45,20 @@ src/main/java/com/example/bookstore
 ├─ entity            # JPA entities (Book)
 ├─ exception         # Custom exceptions
 └─ advice            # Global exception handler
+
+## 🔍 API Testing Screenshots
+
+### 1️⃣ Create Book
+![Create Book](screenshots/create-book.png)
+
+### 2️⃣ Get All Books (Pagination & Sorting)
+![Get All Books](screenshots/get-all-books.png)
+
+### 3️⃣ Get Book by ID
+![Get Book By ID](screenshots/get-book-by-id.png)
+
+### 4️⃣ Search Books by Author
+![Search By Author](screenshots/search-books-by-author.png)
+
+### 5️⃣ Search Books by Title
+![Search By Title](screenshots/search-books-by-title.png)
